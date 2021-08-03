@@ -2,7 +2,7 @@
 
 That is a complete TODO APP.
 we show you how you can create a nice
-clean architecture and clean design for your e-commerce app that can
+clean architecture and clean design for your Todo app that can
 run both Android and iOS devices because it builds with flutter.
 
 - [To Download - Click Here](https://www.mediafire.com/file/bb2nso8lgammk1w/app-release.apk/file)
